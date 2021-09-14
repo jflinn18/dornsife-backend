@@ -1,0 +1,44 @@
+Traceback (most recent call last):
+  File "/home/joseph/code/Dornsife/dornsife_backend/pythonGUI/dataInit.py", line 115, in formatDataForUpload
+    newTour.append(poiData[point])
+KeyError: '26'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "DornsifeGUI.py", line 333, in closeEvent
+    dataInit.formatDataForUpload()
+  File "/home/joseph/code/Dornsife/dornsife_backend/pythonGUI/dataInit.py", line 117, in formatDataForUpload
+    newTour.append(waypointData[point])
+KeyError: '26'
+
+
+--------------------------------------------------------------------------------
+
+
+QLayout: Attempting to add QLayout "" to DornsifeCMSWidget "", which already has a layout
+QLayout: Attempting to add QLayout "" to DornsifeCMSWidget "", which already has a layout
+Traceback (most recent call last):
+  File "DornsifeGUI.py", line 350, in closeEvent
+    dataInit.formatDataForUpload()
+  File "/home/joseph/code/Dornsife/dornsife_backend/pythonGUI/dataInit.py", line 126, in formatDataForUpload
+    cms.deleteTours(deletedTours)
+  File "/home/joseph/code/Dornsife/dornsife_backend/pythonGUI/cms.py", line 196, in deleteTours
+    client.delete_object(Bucket=tourBucket, Key=item)
+  File "/home/joseph/.local/lib/python3.5/site-packages/botocore/client.py", line 253, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+  File "/home/joseph/.local/lib/python3.5/site-packages/botocore/client.py", line 531, in _make_api_call
+    api_params, operation_model, context=request_context)
+  File "/home/joseph/.local/lib/python3.5/site-packages/botocore/client.py", line 583, in _convert_to_request_dict
+    params=api_params, model=operation_model, context=context)
+  File "/home/joseph/.local/lib/python3.5/site-packages/botocore/hooks.py", line 227, in emit
+    return self._emit(event_name, kwargs)
+  File "/home/joseph/.local/lib/python3.5/site-packages/botocore/hooks.py", line 210, in _emit
+    response = handler(**kwargs)
+  File "/home/joseph/.local/lib/python3.5/site-packages/botocore/handlers.py", line 207, in validate_bucket_name
+    if VALID_BUCKET.search(bucket) is None:
+TypeError: expected string or bytes-like object
+
+
+
+--------------------------------------------------------------------------------

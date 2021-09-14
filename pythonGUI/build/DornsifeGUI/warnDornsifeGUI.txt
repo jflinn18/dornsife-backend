@@ -1,0 +1,55 @@
+missing module named 'PyQt5.sip' - imported by c:\python3.5\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_qt5plugins.py
+missing module named resource - imported by posix, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py
+missing module named posix - imported by os, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py
+missing module named _posixsubprocess - imported by subprocess, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py, multiprocessing.util
+missing module named 'org.python' - imported by pickle, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py
+missing module named 'java.lang' - imported by platform, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py
+missing module named termios - imported by tty, getpass, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py
+missing module named urllib.unquote - imported by urllib, botocore.vendored.requests.compat, botocore.compat
+missing module named urllib.getproxies - imported by urllib, botocore.vendored.requests.compat
+missing module named urllib.proxy_bypass - imported by urllib, botocore.vendored.requests.compat
+missing module named urllib.quote_plus - imported by urllib, botocore.vendored.requests.compat
+missing module named urllib.quote - imported by urllib, botocore.vendored.requests.compat, botocore.compat
+missing module named urllib.unquote_plus - imported by urllib, botocore.vendored.requests.compat, botocore.compat
+missing module named urllib.urlencode - imported by urllib, botocore.vendored.requests.packages.urllib3.request, botocore.vendored.requests.compat, botocore.compat
+missing module named grp - imported by tarfile, shutil, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, netrc, getpass, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py
+missing module named ce - imported by os, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py
+missing module named _dummy_threading - imported by dummy_threading, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py
+missing module named org - imported by copy, C:\cygwin64\home\craig\dornsife_backend\pythonGUI\DornsifeGUI.py
+missing module named StringIO - imported by botocore.vendored.six, botocore.vendored.requests.packages.urllib3.packages.six, botocore.vendored.requests.compat, six
+missing module named six.moves.range - imported by six.moves, dateutil.rrule
+runtime module named six.moves - imported by botocore.compat, dateutil.tz._common, dateutil.tz.win, dateutil.rrule
+missing module named dateutil.tz.tzfile - imported by dateutil.tz, dateutil.zoneinfo
+missing module named 'backports.ssl_match_hostname' - imported by botocore.vendored.requests.packages.urllib3.packages.ssl_match_hostname
+missing module named httplib - imported by botocore.vendored.requests.packages.urllib3.connection, botocore.vendored.requests.packages.urllib3.response, botocore.compat
+missing module named _abcoll - imported by botocore.vendored.requests.packages.urllib3.packages.ordered_dict
+missing module named dummy_thread - imported by botocore.vendored.requests.packages.urllib3.packages.ordered_dict
+missing module named thread - imported by botocore.vendored.requests.packages.urllib3.packages.ordered_dict
+missing module named Cookie - imported by botocore.vendored.requests.compat
+missing module named cookielib - imported by botocore.vendored.requests.compat
+missing module named urllib2 - imported by botocore.vendored.requests.compat
+missing module named urlparse - imported by botocore.vendored.requests.packages.urllib3.poolmanager, botocore.vendored.requests.compat, botocore.compat
+missing module named simplejson - imported by botocore.vendored.requests.compat, botocore.compat
+missing module named certifi - imported by botocore.vendored.requests.certs
+missing module named 'pyasn1.type' - imported by botocore.vendored.requests.packages.urllib3.contrib.pyopenssl
+missing module named pyasn1 - imported by botocore.vendored.requests.packages.urllib3.contrib.pyopenssl
+missing module named OpenSSL - imported by botocore.vendored.requests.packages.urllib3.contrib.pyopenssl
+missing module named 'ndg.httpsclient' - imported by botocore.vendored.requests.packages.urllib3.contrib.pyopenssl
+missing module named ndg - imported by botocore.vendored.requests.packages.urllib3.contrib.pyopenssl
+missing module named Queue - imported by botocore.vendored.requests.packages.urllib3.connectionpool
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.SimpleQueue - imported by multiprocessing, concurrent.futures.process
+missing module named ordereddict - imported by botocore.compat
+missing module named 'email.Utils' - imported by botocore.compat
